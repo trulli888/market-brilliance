@@ -1,0 +1,1 @@
+CREATE POLICY "Allow anonymous inserts" ON public.email_signups FOR INSERT TO anon, authenticated WITH CHECK (true);

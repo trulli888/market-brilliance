@@ -28,6 +28,7 @@ const Index = () => {
       <CreatorAnalyticsSection />
       <BundleArchitectSection />
       <FAQSection />
+      <EmailCaptureSection />
       <FooterSection />
     </div>
   );
