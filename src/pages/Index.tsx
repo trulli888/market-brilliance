@@ -9,6 +9,7 @@ import TechSpecsSection from "@/components/sections/TechSpecsSection";
 import CreatorAnalyticsSection from "@/components/sections/CreatorAnalyticsSection";
 import BundleArchitectSection from "@/components/sections/BundleArchitectSection";
 import FAQSection from "@/components/sections/FAQSection";
+import EmailCaptureSection from "@/components/sections/EmailCaptureSection";
 import FooterSection from "@/components/sections/FooterSection";
 import NavigationBar from "@/components/sections/NavigationBar";
 
